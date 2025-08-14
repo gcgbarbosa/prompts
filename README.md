@@ -11,7 +11,7 @@ A list of prompts to be used to speed up life
 
 ## Prompts
 
-- [Brainstorm Specification](brainstorm-specification.md))
+- [Brainstorm Specification](brainstorm-specification.md)
 - [Brainstorm Critique](brainstorm-critique.md)
-- [Socratic Coder](socratic-coder.md))
-- [Behavior Therapist](behavior-therapist.md))
+- [Socratic Coder](socratic-coder.md)
+- [Behavior Therapist](behavior-therapist.md)
